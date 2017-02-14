@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Ajenti Client
+Comment=This is my comment
+Exec=/home/kyle/Desktop/Electron/AjentiClient/build-linux/electron
+Icon=/home/kyle/Desktop/Electron/AjentiClient/build-linux/icon.svg
+Terminal=false
+Type=Application
+Categories=Utility;Application;
